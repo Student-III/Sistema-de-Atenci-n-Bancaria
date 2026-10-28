@@ -116,3 +116,16 @@ Este proyecto fue desarrollado como práctica de **estructuras de datos enlazada
 Proyecto escolar — *Sistema de Atención Bancaria*  
 Implementación de Double Linked List en Java.
 
+---
+## 🤝 Declaración de asistencia
+
+En cumplimiento de la transparencia académica, se declara el uso de una herramienta de inteligencia artificial (asistente conversacional) como apoyo durante el desarrollo de este proyecto. La asistencia se limitó a las siguientes partes:
+
+| Parte del proyecto | Tipo de asistencia recibida |
+|--------------------|-----------------------------|
+| **README.md** | Redacción, organización y formato del documento en Markdown. |
+| **Revisión de código** | Revisión de la lógica de `DoubleLinkedList` (inserciones, eliminaciones y reconexión de enlaces `prev`/`next`) y observaciones sobre el manejo de índices. |
+| **Documentación** | Explicación de conceptos de la lista doblemente enlazada para su comprensión y exposición. |
+
+**No** se delegó la escritura del código fuente ni la lógica principal del sistema: la implementación de `DNode`, `DoubleLinkedList`, `IList`, `Turno` y `SistemaAtencionBancaria` es de autoría propia. La herramienta se empleó únicamente como apoyo de redacción, revisión y organización del material.
+
